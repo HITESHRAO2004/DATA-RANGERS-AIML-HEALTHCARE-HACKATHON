@@ -1,0 +1,14 @@
+Age,Gender,Geographic Location,Chronic Conditions,Past Medical Procedures,Comorbidities,Frequency of Visits,Appointment Adherence,Follow-Up Compliance,Preventive Care,Patient Portal Usage,Communication Frequency,Feedback and Surveys,Type of Treatments,Treatment Outcomes,Duration of Care,Payment History,Insurance Coverage,Out-of-Pocket Expenses,Income Level,Education Level,Smoking Status,Alcohol Consumption,Exercise Frequency,Dietary Habits,Mental Health,Stress Levels,Wait Times,Facility Ratings,Staff Interactions,Accessibility,Referral Source,Family History
+59,Female,Rural,1,1,2,6,0.73,0.59,1,44,9,1.5,3,Success,52,0.79,Basic,14866.48601,78148.74857,Master,Yes,,4,Poor,Poor,5,42.55956278,2.6,3.7,2,Referral,Yes
+77,Female,Rural,3,7,1,6,0.73,0.86,1,28,7,2.1,4,Success,47,0.85,Basic,9860.651499,99386.30137,Master,No,Heavy,4,Healthy,Good,6,4.287224885,3.4,3.9,4,Referral,Yes
+32,Male,Urban,3,9,2,17,0.75,0.65,1,21,5,4.9,2,Failure,6,0.83,Standard,10286.74927,122196.7641,Bachelor,No,,1,Poor,Poor,3,16.05926096,3.2,4.8,2.4,Advertisement,Yes
+79,Male,Urban,2,8,2,19,0.85,0.96,1,5,11,2.1,2,Ongoing,118,0.71,Premium,5666.675416,193705.4395,PhD,No,Moderate,1,Healthy,Good,8,30.84629874,3.2,4.9,4.8,Advertisement,No
+79,Male,Suburban,3,6,3,10,0.78,0.67,0,20,16,4.4,1,Success,44,0.93,Basic,1661.058462,36857.5534,Bachelor,No,Moderate,3,Poor,Poor,2,21.96848235,2.4,2,4,Referral,Yes
+64,Female,Urban,1,3,1,1,0.89,0.64,0,27,16,4.3,1,Ongoing,107,0.97,Basic,283.7764845,69518.34041,Bachelor,Yes,,6,Poor,Moderate,8,25.1494031,1.2,3.2,2.3,Online Search,Yes
+79,Female,Urban,2,1,2,9,0.9,0.55,0,16,18,2.4,4,Ongoing,112,0.74,Standard,11749.05818,188908.3343,Master,No,Heavy,4,Average,Moderate,3,7.677686601,1.4,1.5,2.4,Referral,Yes
+68,Female,Rural,3,7,0,12,0.53,0.7,0,30,13,2.8,4,Failure,80,0.74,Premium,14073.47563,171853.0922,High School,Yes,,4,Healthy,Moderate,2,50.18607155,1,4.1,2.9,Advertisement,Yes
+72,Female,Urban,1,5,0,10,0.99,0.79,1,28,10,4.5,3,Failure,18,0.71,Premium,15800.64134,148553.9801,Master,No,,4,Average,Good,1,44.28493277,2,4.8,3.8,Advertisement,Yes
+81,Male,Urban,2,9,1,16,0.96,0.62,0,8,6,2.2,1,Failure,10,0.96,Basic,795.8498161,61339.21756,Bachelor,Yes,Moderate,6,Average,Moderate,7,45.77312859,2.8,5,4.9,Online Search,No
+20,Female,Suburban,0,0,0,10,0.72,0.77,0,46,18,1.9,2,Ongoing,38,0.93,Standard,19129.04182,98655.30109,Master,Yes,Heavy,0,Average,Moderate,4,41.82311461,1,2,1.4,Advertisement,No
+68,Male,Urban,0,9,0,7,0.95,0.67,0,3,0,2.3,4,Failure,6,0.9,Basic,1586.708844,65783.55506,Bachelor,Yes,,5,Poor,Poor,4,5.093450268,4.5,4.5,1.5,Walk-in,No
+24,Female,Urban,1,2,1,18,0.73,0.78,0,48,1,4.8,1,Ongoing,73,0.8,Standard,13986.06142,55448.3869,Master,No,Heavy,1,Healthy,Moderate,8,46.916484,2.4,2.4,4.3,Advertisement,No
